@@ -1,91 +1,26 @@
-# Daveed Ashar
+# Daud Ashar
 
-### Full-Stack Software Engineering • Enterprise Solutions • Cloud Architecture
+Founder of **[Genesys Technologies](https://genesystechnologies.dev)**. I build AI phone agents that answer the calls a small business can't, plus the automations, websites and CRM systems around them, for small businesses in the United States.
 
-Building production-grade systems that scale. From concept to deployment.
+Genesys opens for projects soon.
 
----
+## How I build
 
-## 🏢 What We Deliver
+1. **Research:** the business, the tools, and the rules that apply.
+2. **A written specification**, agreed before any code is written.
+3. **The build**, in Python and TypeScript, with tests.
+4. **A separate review:** a different AI model checks the work for security and logic problems. Nothing goes live until it passes.
 
-| Domain | Expertise |
-|--------|-----------|
-| **Backend Systems** | Python, Node.js, Go, Rust, Java |
-| **Frontend** | React, Next.js, Vue, TypeScript |
-| **Cloud & DevOps** | AWS, Azure, GCP, Kubernetes, Terraform |
-| **Databases** | PostgreSQL, MongoDB, Redis, Elasticsearch |
-| **Security** | OAuth2, RBAC, Encryption, Compliance |
-| **Distributed Systems** | Microservices, Event-Driven, Message Queues |
+A build pipeline of my own runs these steps and hands each one to a different AI model. It's private, with more than 190 automated tests.
 
----
+## Tools
 
-## 📊 GitHub Stats
+Python · TypeScript · n8n · Cloudflare
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveedashar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+## Public code
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daveedashar&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+- **[automation-decision-engine](https://github.com/daveedashar/automation-decision-engine)**: a small rule engine in Python. Rules in YAML, ten operators, priorities and nested fields, with tests.
 
----
+## Contact
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 🔧 Enterprise-grade distributed systems
-- 🔒 Security-first architecture design
-- ☁️ Cloud-native application development
-- 📈 High-performance scalable backends
-- 🧪 Comprehensive testing & quality assurance
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:daud-a@consultant.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://pk.linkedin.com/in/daudashar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daveedashar&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>Building software that matters. Enterprise quality. Production ready.</i>
-</p>
+[LinkedIn](https://www.linkedin.com/in/daudashar) · daud-a@consultant.com · [genesystechnologies.dev](https://genesystechnologies.dev)
