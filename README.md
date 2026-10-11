@@ -9,9 +9,7 @@ Genesys opens for projects soon.
 1. **Research:** the business, the tools, and the rules that apply.
 2. **A written specification**, agreed before any code is written.
 3. **The build**, in Python and TypeScript, with tests.
-4. **A separate review:** a different AI model checks the work for security and logic problems. Nothing goes live until it passes.
-
-A build pipeline of my own runs these steps and hands each one to a different AI model. It's private, with more than 190 automated tests.
+4. **A separate review** for security and logic problems. Nothing goes live until it passes.
 
 ## Tools
 
